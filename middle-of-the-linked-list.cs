@@ -1,4 +1,6 @@
 /**
+ https://leetcode.com/problems/middle-of-the-linked-list/
+ *
  * Definition for singly-linked list.
  * public class ListNode {
  *     public int val;
@@ -8,8 +10,6 @@
  *         this.next = next;
  *     }
  * }
-
- https://leetcode.com/problems/middle-of-the-linked-list/
  */
 public class Solution {
     public ListNode MiddleNode(ListNode head) {
